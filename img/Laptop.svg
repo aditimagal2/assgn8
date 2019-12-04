@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 725.5 454.6" style="enable-background:new 0 0 725.5 454.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#656666;stroke-width:2.5;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;stroke:#656666;stroke-width:2.5;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#8692A4;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#E2E2E2;stroke-width:1.2;stroke-miterlimit:10;}
+</style>
+<title>Laptop</title>
+<path class="st0" d="M79.1,1.2h567.3c17,0,30.8,13.8,30.8,30.8v385.3c0,17-13.8,30.8-30.8,30.8H79.1c-17,0-30.8-13.8-30.8-30.8V32.1
+	C48.2,15,62,1.2,79.1,1.2z"/>
+<g>
+	<path class="st1" d="M1.2,443.1v-8.5c0-1,1.2-1.8,2.6-1.8h717.8c1.4,0,2.6,0.8,2.6,1.8v8.5"/>
+	<path class="st1" d="M724.2,443.1c0,3.2-12.1,10.2-44.4,10.2H45.6c-32.3,0-44.4-7-44.4-10.2"/>
+</g>
+<line class="st2" x1="1.2" y1="443.1" x2="724.2" y2="443.1"/>
+<ellipse class="st0" cx="362.7" cy="18" rx="4.1" ry="4.3"/>
+<path class="st2" d="M444.1,433.5v3.3c0.1,2.4-1.8,4.4-4.2,4.4H285.6c-2.4-0.1-4.3-2.1-4.2-4.4v-4.1"/>
+<line class="st3" x1="48.2" y1="417.4" x2="677.2" y2="417.4"/>
+</svg>
